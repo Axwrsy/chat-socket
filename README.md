@@ -12,6 +12,9 @@ Este é um projeto de chat em tempo real desenvolvido com Node.js, Express e Soc
 - HTML5 + CSS3 + JavaScript
 
 ---
+## Funcionamento 
+Para esse projeto funcionar, foi preciso instalar duas bibliotecas usando o npm (Express e Socket.IO)
+No arquivo server.js execute: npm install express socket.io
 
 
 ---
